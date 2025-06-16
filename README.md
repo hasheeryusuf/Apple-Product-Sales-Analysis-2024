@@ -1,5 +1,7 @@
 # 📊 Apple Product Sales Analysis – 2024
 
+![](https://i.postimg.cc/Kz5Pk3PF/TASK-35B.png)
+
 ## Overview
 
 This report presents an analytical summary of Apple product sales across five key global regions for the year 2024. The goal of this project was to identify product performance trends, revenue distribution, and regional disparities, with insights derived from summarized sales data (in billions USD).
